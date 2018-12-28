@@ -27,17 +27,23 @@ h1
 h1 + p
 {
     text-align: center;
+
 }
 
 h2
 {
     font-style: italic, bold;
     color: darkblue;
+    text-align: center;
+    border-top: 2px solid darkgrey;
+    border-bottom: 2px solid darkgrey;
+    clear: both;
 }
 
 #cat
 {
-    text-align: center;
+    float: left;
+    padding-right: 5px;
+    padding-bottom: 5px;
     font-weight: bold;
-    box-shadow: 6px 6px 1px lightskyblue;
 }
