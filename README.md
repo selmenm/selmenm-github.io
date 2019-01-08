@@ -1,9 +1,7 @@
-# selmenm.github.io
+Site conçu par @Selmen et @Quentin de la session7 de Toulouse!
 
-Bonjour, Bienvenue dans le projet de reproduction de The Best Mother Fucker Website !! Il s'agit de reproduduire le site https://thebestmotherfucking.website/ avec un CSS différent!
+Les rédacteurs ont alternés leurs rôles dans le cadre du pair-programing.
 
-Mercredi : thebestmotherfuckerwebssite.com a été modifié et présente aujourd'hui un skin différent. Un pop de redirection a également été ajouté à la suite de la signature du méga-contract signé avec le Zimbabwe !
+Merci pour votre relecture!
 
-Voici la page du site : https://selmenm.github.io/
-
-Bonne relecture !!
+Lien : du site :  https://selmenm.github.io/ 

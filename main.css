@@ -1,0 +1,136 @@
+/*---------------Général------------------*/
+body{
+  font-family: Arial, sans-serif;}
+
+a:link {
+  text-decoration: none;
+  color: #434343
+}
+  
+a:visited {
+  text-decoration: none;
+  color: #434343
+}
+
+/*---------------Header------------------*/
+
+.header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  color: #434343;
+}
+
+.header div {
+  padding-left: 15px;
+}
+
+.header .apps_icon img {
+  width: 30px;
+}
+
+.header .bell_icon img {
+  width: 25px;
+}
+
+.header button {
+  height: 30px;
+  width: 100px;
+  font-weight: bold;
+  background: #4285f4;
+  background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+  border-radius: 2px;
+  border: none;
+  color: white;
+  font-size: 13px;
+}
+
+
+/*---------------Barre de navigation------------------*/
+
+.Barre_recherche input {
+    width: 550px;
+    margin: auto;
+    padding: 8px;
+    border: 1px solid #F2F2F2;
+    font-size: 16px;
+    display: block;
+    box-shadow: 3px 3px rgba(201, 201, 201, 0.2)
+}
+
+.Barre_recherche img{
+  padding:180px 0 30px 0;
+	display: block;
+	margin:0 auto;
+}
+
+.outer {
+  text-align: center;
+  width: 100%;
+  padding-top: 30px
+}
+
+.inner{
+  display: inline-block;
+  padding-left: 10px;
+}
+
+.Barre_recherche button {
+  height: 30px;
+  width: 150px;
+  font-weight: bold;
+  background-color: ghostwhite;
+  color: #757575;
+  font-size: 13px;
+  border: none;
+}
+
+.Barre_recherche button:hover {
+  height: 30px;
+  width: 150px;
+  font-weight: bold;
+  background-color: ghostwhite;
+  color: black;
+  font-size: 13px;
+  border: 1px solid #717071;
+}
+
+/*------------------Footer------------------------*/
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #F2F1F2;
+  border: 1px solid #E3E3E3;
+}
+
+.footer2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  border: 1px solid #E3E3E3;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #717071;
+  text-align: center;
+  padding: 14px 16px;
+}
